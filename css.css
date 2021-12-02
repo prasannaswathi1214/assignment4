@@ -1,38 +1,70 @@
+.con{
+    width:50px;
+    height: 450px;
+    background-color:rgb(25, 29, 20);
+    cursor: pointer;
+}
+h1{
+    display:inline;
+}
+li{
+    padding-right: 100px ;
+    display:inline;
+    color:white;
+    cursor: pointer;
+    display: inline;
+   
+}
+.box{
+    width: 50px;
+    height: 600px;
+    background-color: yellow;
+    cursor: pointer;
+    padding-top: 50px;
+}
+ul{
+    margin-left: 50px;
+    display: inline;
+}
+
+.sign{
+    display: inline;
+    margin-right: auto;
+    float: right;
+    padding-left: 1000px;
+}
 button{
-            
-    padding: 7px;
-    border-radius:20px;
-    border: 5px solid green;
+    padding: 15px;
+    background-color: yellow;
     
+    cursor: pointer;
 }
-span{
-    display: Inline-block;
+.op{
+    margin-top: 5px;
+    padding: 10px;
+
 }
-
-  .GFG{                 
-    transform: scale(-1, 1);
-    color: #000080;
-    -moz-transform: scale(-1, 1);
-    -webkit-transform: scale(-1, 1);
-    -o-transform: scale(-1, 1);
-    -ms-transform: scale(-1, 1);
-    transform: scale(-1, 1);
-  }
-  
-  .hov:hover{
-      background-color: rgb(103, 103, 196);
-      cursor: pointer;
-
-  }
- .hove:hover{
-     color: blue;
-     cursor: pointer;
-     background-color: white;
-
-  }
-  .button1:hover{
-    background-color: rgb(103, 103, 196);
-   cursor: pointer;
-   
-   
-  }
+.quotation{
+    top: 30%;
+    position: fixed;
+    font-size: 100px;
+    padding-left: 70px;
+    color: white;
+}
+li:hover{
+    color: blue;
+}
+.op:hover{
+    background-color: yellowgreen;
+}
+.no:hover{
+    background-color: whitesmoke;
+}
+.food{
+    color:yellow;
+}
+.conraper,.menu{
+    
+    color:white;
+    float:left;
+}
