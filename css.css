@@ -1,0 +1,38 @@
+button{
+            
+    padding: 7px;
+    border-radius:20px;
+    border: 5px solid green;
+    
+}
+span{
+    display: Inline-block;
+}
+
+  .GFG{                 
+    transform: scale(-1, 1);
+    color: #000080;
+    -moz-transform: scale(-1, 1);
+    -webkit-transform: scale(-1, 1);
+    -o-transform: scale(-1, 1);
+    -ms-transform: scale(-1, 1);
+    transform: scale(-1, 1);
+  }
+  
+  .hov:hover{
+      background-color: rgb(103, 103, 196);
+      cursor: pointer;
+
+  }
+ .hove:hover{
+     color: blue;
+     cursor: pointer;
+     background-color: white;
+
+  }
+  .button1:hover{
+    background-color: rgb(103, 103, 196);
+   cursor: pointer;
+   
+   
+  }
