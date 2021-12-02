@@ -1,0 +1,51 @@
+.button {
+    
+    color: white;
+    background-color: blue;
+    border-radius: 70px;
+    border-spacing: 100px;
+    width:350px;
+    padding: 15px;
+    font-size: medium;
+    position: relative;
+    left:650px;
+}
+.nav{
+    text-decoration: none;
+    color: white;
+}
+.d{
+    position: relative;
+    right: 110px;
+}
+.t{
+    border: 1px solid black;
+    position: relative;
+    top: 5px;
+    bottom: 5px;
+    padding: 0px 40px;
+}
+a{
+    color: rgb(15, 223, 15);
+}
+.b{
+    padding: 10px;
+    background-color: rgb(28, 196, 28);
+    border-radius: 150px;    
+    width: 200px;
+    font-size: medium;
+    color: white;
+    border-spacing: 20px;
+    border-top-style: inset;
+    border-left-style: inset;
+    
+ }
+ h4{
+     position: relative;
+     right: 120px;
+ }
+
+
+label{
+    text-align: left;
+}
